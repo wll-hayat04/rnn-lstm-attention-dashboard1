@@ -12,7 +12,7 @@ An interactive Streamlit dashboard to **train, compare and interpret** sequentia
 
 ## 📸 Demo
 
-> _Add screenshot after deployment: `![Demo](assets/demo.png)`_
+
 
 ---
 
