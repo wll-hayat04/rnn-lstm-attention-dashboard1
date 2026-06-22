@@ -11,8 +11,9 @@ An interactive Streamlit dashboard to **train, compare and interpret** sequentia
 ---
 
 ## 📸 Demo
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/8db5da9a-5a2c-46f0-864d-f0643451edb4" />
 
-
+https://rmyaoieyhac5qyctdxbp69.streamlit.app/
 
 ---
 
